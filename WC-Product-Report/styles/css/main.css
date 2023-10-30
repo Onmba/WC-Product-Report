@@ -1,0 +1,82 @@
+.transition {
+  transition: all 0.2s ease;
+}
+.btn {
+  display: block;
+  margin: 20px auto;
+  border-radius: 3px;
+  border: none;
+  background: #2471ae;
+  color: #ffffff;
+  position: relative;
+  top: 0px;
+  padding: 10px 25px;
+  transition: all 0.2s ease;
+}
+.btn:hover {
+  top: -3px;
+  background: #318cd4;
+  transition: all 0.2s ease;
+}
+section {
+  padding: 20px;
+}
+.woo-welcome {
+  text-align: center;
+}
+.form {
+  text-align: center;
+}
+.form form input[type="submit"] {
+  display: block;
+  margin: 20px auto;
+  border-radius: 3px;
+  border: none;
+  background: #2471ae;
+  color: #ffffff;
+  position: relative;
+  top: 0px;
+  padding: 10px 25px;
+  transition: all 0.2s ease;
+}
+.form form input[type="submit"]:hover {
+  top: -3px;
+  background: #318cd4;
+  transition: all 0.2s ease;
+}
+#wooresults {
+  width: 100%;
+}
+#wooresults table {
+  width: 100%;
+}
+#wooresults table thead {
+  background: #2c3338;
+}
+#wooresults table thead th {
+  padding: 10px;
+  color: #ffffff;
+}
+#wooresults table tr td {
+  padding: 10px;
+}
+#wooresults table tr:nth-child(2n) {
+  background: #f5f5f5;
+}
+.csv_download_wrapper button {
+  display: block;
+  margin: 20px auto;
+  border-radius: 3px;
+  border: none;
+  background: #2471ae;
+  color: #ffffff;
+  position: relative;
+  top: 0px;
+  padding: 10px 25px;
+  transition: all 0.2s ease;
+}
+.csv_download_wrapper button:hover {
+  top: -3px;
+  background: #318cd4;
+  transition: all 0.2s ease;
+}
